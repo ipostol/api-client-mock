@@ -1,6 +1,6 @@
 {
   "name": "api-client-mock",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is mock super-agent api requests",
   "main": "lib/index.js",
   "scripts": {
